@@ -1,0 +1,30 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink: pretty
+# relative_permalinks: true
+
+# Setup
+title: Austin College Table Tennis
+tagline: ""
+description: "Home page for the Austin College Table Tennis Club"
+url: https://actabletennis.com
+baseurl: ""
+paginate: 1
+
+# About/contact
+# author:
+#   name:              Mark Otto
+#   url:               https://twitter.com/mdo
+#   email:             markdotto@gmail.com
+
+# Custom vars
+version:             1.0.83
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+paginate_path: "page:num"
+
+markdown: kramdown
