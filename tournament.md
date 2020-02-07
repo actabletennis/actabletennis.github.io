@@ -12,4 +12,4 @@ custom_css: tournament
 <iframe class="tournament" height="1600" src="https://widget.toornament.com/tournaments/3256057576021958656/?_locale=en_US" allowfullscreen frameborder="0"></iframe>
 </div>
 
-<iframe width="800" height="900" src="https://widget.toornament.com/tournaments/3256057576021958656/?_locale=en_US" allowfullscreen frameborder="0"></iframe>
+<!-- <iframe width="800" height="900" src="https://widget.toornament.com/tournaments/3256057576021958656/?_locale=en_US" allowfullscreen frameborder="0"></iframe> -->

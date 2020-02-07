@@ -19,7 +19,7 @@ paginate: 1
 #   email:             markdotto@gmail.com
 
 # Custom vars
-version:             1.0.83
+version:             1.0.84
 
 plugins:
   - jekyll-paginate
